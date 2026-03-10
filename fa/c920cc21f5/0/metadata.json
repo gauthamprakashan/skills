@@ -1,0 +1,35 @@
+{
+  "cli_version": "0.4.2",
+  "checkpoint_id": "fac920cc21f5",
+  "session_id": "868e1802-a14d-4e36-a0d9-3d54fe334488",
+  "strategy": "manual-commit",
+  "created_at": "2026-03-10T13:21:40.522293Z",
+  "branch": "feat/skill-evaluator",
+  "checkpoints_count": 1,
+  "files_touched": [
+    "skills/aws-bedrock-evals/README.md",
+    "skills/aws-bedrock-evals/SKILL.md",
+    "skills/aws-bedrock-evals/metadata.json",
+    "skills/aws-bedrock-evals/rules/security.md",
+    "skills/aws-bedrock-evals/scripts/validate-iam-policy.sh",
+    "skills/aws-bedrock-evals/scripts/validate-inputs.sh",
+    "skills/aws-bedrock-evals/scripts/verify-dataset.sh"
+  ],
+  "agent": "Claude Code",
+  "token_usage": {
+    "input_tokens": 58,
+    "cache_creation_tokens": 33604,
+    "cache_read_tokens": 2716485,
+    "output_tokens": 6502,
+    "api_call_count": 56
+  },
+  "initial_attribution": {
+    "calculated_at": "2026-03-10T13:21:40.466198Z",
+    "agent_lines": 0,
+    "human_added": 610,
+    "human_modified": 0,
+    "human_removed": 0,
+    "total_committed": 610,
+    "agent_percentage": 0
+  }
+}
