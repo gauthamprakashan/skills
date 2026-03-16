@@ -15,8 +15,8 @@ Point this skill at a SAM template, CDK project, or Terraform config and get bac
 
 ```
 > Run the infra-cost-estimator skill on this project
-> Run infra-cost-estimator on backend/
-> Run infra-cost-estimator on backend/ using profile MyProfile
+> Estime the costs on my project from @backend/
+> Run infra-cost-estimator on backend/ using AWS profile MyProfile
 ```
 
 ---
